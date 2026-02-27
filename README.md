@@ -36,7 +36,15 @@ Available on **Lemon Squeezy**:
 
 ---
 
+### Notes
+
+When opening the CSV file in Excel, postal codes may lose leading zeros.  
+Use the `.xlsx` version or import `postcode_digits` as **Text**.
+
+---
+
 ### Contact
 **Local Data Insights**  
 [localdatainsights@gmail.com](mailto:localdatainsights@gmail.com)  
 Generated automatically on ****
+
