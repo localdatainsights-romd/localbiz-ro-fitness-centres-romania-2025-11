@@ -35,10 +35,10 @@ Disponibil pe **Lemon Squeezy**:
 
 ---
 
-### Note
-La deschiderea fișierului CSV în Excel, zerourile inițiale pot fi pierdute.  
-Folosește varianta `.xlsx` sau importă coloanele  
-`phones_e164`, `postcode_digits` și `entity_id` ca **Text**.
+### Notes
+
+La deschiderea fișierului CSV în Excel, codurile poștale pot pierde zerourile inițiale.  
+Folosește varianta `.xlsx` sau importă coloana `postcode_digits` ca **Text**.
 
 ---
 
@@ -47,3 +47,4 @@ Folosește varianta `.xlsx` sau importă coloanele
 [localdatainsights@gmail.com](mailto:localdatainsights@gmail.com)
 
 > Generat automat la ****.
+
